@@ -1,6 +1,9 @@
 # NYUSH_DURF_video-semantic-segmentation
 This is the repository for NYUSH Dean's undergraduate research funding, video semantic segmentation.
+
 Group Member: Muyang Xu, Chengyu Zhang, Qianyu Zhu
+
+Project report @: [click here for writing](https://github.com/qianyu-zhu/NYUSH_DURF_video-semantic-segmentation/blob/main/DURF_report.pdf).
 
 # Abstract:
 In computer vision, segmentation refers to detecting and locating different image fragments at the pixel level, with application in both image and video. Based on the image segmentation, video segmentation is divided into four subjects: video semantic segmentation (VSS), video object segmentation (VOS), video instance segmentation (VIS), and video panoptic segmentation (VPS). The complexity of tasks increases along with the four approaches, and they are highly interrelated. 
